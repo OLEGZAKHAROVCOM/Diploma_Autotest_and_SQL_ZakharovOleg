@@ -1,5 +1,5 @@
 # URL API
-API_URL = "https://c1fa6286-0724-43e9-bd84-4fc74541be49.serverhub.praktikum-services.ru"
+API_URL = "https://b3f2f4f3-a5f1-49f8-9afe-c3fd2185a133.serverhub.praktikum-services.ru"
 
 # Заголовки для HTTP запросов
 HEADERS = {
